@@ -20,7 +20,7 @@ requests==2.31.0
 
 # Utilities
 python-dotenv==1.0.0
-python-multipart==0.0.6
+python-multipart==0.0.9
 
 # Logging and monitoring
 structlog==23.2.0
@@ -28,6 +28,7 @@ structlog==23.2.0
 # Development dependencies (optional)
 pytest==8.0.0
 pytest-asyncio==0.23.0
+
 
 
 
