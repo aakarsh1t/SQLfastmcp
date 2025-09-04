@@ -568,3 +568,4 @@ if __name__ == "__main__":
     logger.info("✅ MCP endpoint available at /mcp")
     logger.info("✅ Ready for Copilot Studio integration!")
     uvicorn.run(app, host=HOST, port=PORT, log_level="info", access_log=True)
+
